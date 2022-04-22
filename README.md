@@ -1,4 +1,3 @@
-# CS225potd-fa18
-potd 13-43 for fall 2018 CS225 at University of Illinois-Urbana Champaign
+### CS225potd
+short cpp problems everyday
 
-# MAINTAINING ACADEMIC INTEGRITY IS YOUR OWN OBLIGATION; DIRECT COPY OR OTHER VIOLATIONS ARE STRONGLY DISCOURAGED.
